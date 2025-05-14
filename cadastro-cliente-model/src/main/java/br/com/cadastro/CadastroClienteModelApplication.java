@@ -1,5 +1,5 @@
 package br.com.cadastro;
-//testa
+//tes
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
